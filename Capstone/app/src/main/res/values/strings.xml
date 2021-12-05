@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Capstone</string>
+    <string name="btn_stop">비상 정지</string>
+    <string name="switch_Manual">현재(자동)</string>
+</resources>
