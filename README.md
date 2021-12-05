@@ -5,6 +5,7 @@
 ## 사용한 기술
 >텐서플로라이트, 안드로이드, 라즈베리파이 사용
 
+
 ## 설명
 >앱 처음 실행 시 수동주행상태입니다. 수동상태일때만 하단의 컨트롤버튼으로 사용가능하고, 
 >자동으로 변환할 시, 컨트롤 버튼은 사용할 수 없습니다.
@@ -16,6 +17,7 @@
 >촬영 범위 내의 병 형태를 감지하면, 휴대폰 상단에 /텍스트로 사용자에게 알려 주고 정지합니다.
 >
 >>![image](https://user-images.githubusercontent.com/56444899/144751793-7cf8ab45-d789-4719-a644-819d31a82831.png)
+
 
 ## TEST 영상
 >[![객체인식 RC카 Test](http://img.youtube.com/vi/URHFq_wiG44/0.jpg)](https://www.youtube.com/watch?v=URHFq_wiG44) 
