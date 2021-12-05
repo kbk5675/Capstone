@@ -14,6 +14,4 @@
 촬영 범위 내의 병 형태를 감지하면, 휴대폰 상단에 /텍스트로 사용자에게 알려 주고 정지합니다.
 
 
-https://user-images.githubusercontent.com/56444899/144750735-212033c3-c1d1-498e-aded-16b1c793915f.mp4
-
-<img width="80%" src="https://user-images.githubusercontent.com/56444899/144750735-212033c3-c1d1-498e-aded-16b1c793915f.mp4"/>
+https://youtu.be/URHFq_wiG44
