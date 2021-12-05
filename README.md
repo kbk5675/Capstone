@@ -14,4 +14,4 @@
 촬영 범위 내의 병 형태를 감지하면, 휴대폰 상단에 /텍스트로 사용자에게 알려 주고 정지합니다.
 
 
-https://youtu.be/URHFq_wiG44
+<iframe width="560" height="315" src="https://www.youtube.com/embed/URHFq_wiG44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
