@@ -16,7 +16,6 @@
 >촬영 범위 내의 병 형태를 감지하면, 휴대폰 상단에 /텍스트로 사용자에게 알려 주고 정지합니다.
 >
 >>![image](https://user-images.githubusercontent.com/56444899/144751793-7cf8ab45-d789-4719-a644-819d31a82831.png)
-----------------------------------------------------------------------------------------------------------------------
 
 ## TEST 영상
 >[![객체인식 RC카 Test](http://img.youtube.com/vi/URHFq_wiG44/0.jpg)](https://www.youtube.com/watch?v=URHFq_wiG44) 
