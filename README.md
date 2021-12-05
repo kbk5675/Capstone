@@ -14,4 +14,4 @@
 >전처리 된 이미지로 추론과정을 거쳐 결과를 도출해냅니다.
 >이러한 과정을 쓰레드를 이용해 지속적으로 반복하게 만들어 실시간으로 객체탐지가 가능하게 하였습니다.
 >촬영 범위 내의 병 형태를 감지하면, 휴대폰 상단에 /텍스트로 사용자에게 알려 주고 정지합니다.
-[![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s) 
+[![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/URHFq_wiG44/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s) 
